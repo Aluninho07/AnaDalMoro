@@ -1,9 +1,3 @@
-# Sobre mim
-- 👋 Olá, meu nome é @AnaDalMoro
-- 👍 Meu email de contato é ana.laura.moro@escola.pr.gov.br
-- 👀 Eu estou interessado em aprender a programar novas linguagens
-- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
-
-
-![JavaScript]({img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E})
-![Scratch]({https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white})
+Sou eu aqui, não sei quem é Ana Dal moro, mas acho q vc sem querer entrou na minha conta, eu sei, parece confuso mas acho q deixei minha conta logada no Computador da escola e acho q vc criou sua conta em cima da minha, usando meu email da escola, me perdoa por estragar seu trabalho duro. Espero que compreenda, me desculpa D:
+ASS: João Pedro de Lima 1°B N°18
+Perdão, novamente...
